@@ -1,0 +1,38 @@
+[
+    {
+        "caption": "CustomBind: Multi Cursor - Select All",
+        "command": "find_all_under"
+    },
+    {
+        "caption": "CustomBind: Multi Cursor - Skip Current",
+        "command": "find_under_expand_skip"
+    },
+    {
+        "caption": "CustomBind: Multi Cursor - Split into Lines",
+        "command": "split_selection_into_lines"
+    },
+    {
+        "caption": "CustomBind: Transparency - None",
+        "command": "set_opacity"
+    },
+    {
+        "caption": "CustomBind: Transparency - Level 1",
+        "command": "set_opacity_nine"
+    },
+    {
+        "caption": "CustomBind: Transparency - Level 2",
+        "command": "set_opacity_eight"
+    },
+    {
+        "caption": "CustomBind: Transparency - Level 3",
+        "command": "set_opacity_seven"
+    },
+    {
+        "caption": "CustomBind: Transparency - Level 4",
+        "command": "set_opacity_six"
+    },
+    {
+        "caption": "CustomBind: Transparency - Level 5",
+        "command": "set_opacity_half"
+    }
+]
