@@ -1,9 +1,9 @@
-# Sublime Text 3 Plugin to Add Some Command Bindings for Sublime Text 3
+# Sublime Text 3 Plugin to Add Some Command Bindings
 
 ## Overview
 
-There are many useful functions in Sublime Text 3.
-But we can't use some of these functions in Command Palette, 
+There are many useful functions in Sublime Text 3.  
+But we can't use some of these functions in Command Palette,  
 so we have to remember their shortcut keys.
 
 This plugin add such commands which you can use in Command Palette.
