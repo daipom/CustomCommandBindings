@@ -18,6 +18,10 @@ Clone this to `~¥AppData¥Roaming¥Sublime Text 3¥Packages¥User`.
 
 Clone this to `~/Library/Application Support/Sublime Text 3/Packages/User`.
 
+### Ubuntu
+
+Clone this to `~/.config/sublime-text/Packages/User`.
+
 ## Usage
 
 - Open Command Palette.
